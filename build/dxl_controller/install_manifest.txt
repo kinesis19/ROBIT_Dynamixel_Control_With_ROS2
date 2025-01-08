@@ -1,0 +1,16 @@
+/home/kinesis/Github/ROBIT_Dynamixel_Control_With_ROS2/install/dxl_controller/lib/dxl_controller/dxl_controller
+/home/kinesis/Github/ROBIT_Dynamixel_Control_With_ROS2/install/dxl_controller/share/ament_index/resource_index/package_run_dependencies/dxl_controller
+/home/kinesis/Github/ROBIT_Dynamixel_Control_With_ROS2/install/dxl_controller/share/ament_index/resource_index/parent_prefix_path/dxl_controller
+/home/kinesis/Github/ROBIT_Dynamixel_Control_With_ROS2/install/dxl_controller/share/dxl_controller/environment/ament_prefix_path.sh
+/home/kinesis/Github/ROBIT_Dynamixel_Control_With_ROS2/install/dxl_controller/share/dxl_controller/environment/ament_prefix_path.dsv
+/home/kinesis/Github/ROBIT_Dynamixel_Control_With_ROS2/install/dxl_controller/share/dxl_controller/environment/path.sh
+/home/kinesis/Github/ROBIT_Dynamixel_Control_With_ROS2/install/dxl_controller/share/dxl_controller/environment/path.dsv
+/home/kinesis/Github/ROBIT_Dynamixel_Control_With_ROS2/install/dxl_controller/share/dxl_controller/local_setup.bash
+/home/kinesis/Github/ROBIT_Dynamixel_Control_With_ROS2/install/dxl_controller/share/dxl_controller/local_setup.sh
+/home/kinesis/Github/ROBIT_Dynamixel_Control_With_ROS2/install/dxl_controller/share/dxl_controller/local_setup.zsh
+/home/kinesis/Github/ROBIT_Dynamixel_Control_With_ROS2/install/dxl_controller/share/dxl_controller/local_setup.dsv
+/home/kinesis/Github/ROBIT_Dynamixel_Control_With_ROS2/install/dxl_controller/share/dxl_controller/package.dsv
+/home/kinesis/Github/ROBIT_Dynamixel_Control_With_ROS2/install/dxl_controller/share/ament_index/resource_index/packages/dxl_controller
+/home/kinesis/Github/ROBIT_Dynamixel_Control_With_ROS2/install/dxl_controller/share/dxl_controller/cmake/dxl_controllerConfig.cmake
+/home/kinesis/Github/ROBIT_Dynamixel_Control_With_ROS2/install/dxl_controller/share/dxl_controller/cmake/dxl_controllerConfig-version.cmake
+/home/kinesis/Github/ROBIT_Dynamixel_Control_With_ROS2/install/dxl_controller/share/dxl_controller/package.xml
